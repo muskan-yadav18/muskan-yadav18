@@ -1,6 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI%20Engineer-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Developer-F2C811?style=for-the-badge&logoColor=black" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
