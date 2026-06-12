@@ -57,26 +57,7 @@
   </tr>
 </table>
 
-<br/>
 
-```python
-class MuskanYadav:
-    def __init__(self):
-        self.name        = "Muskan Yadav"
-        self.roles       = ["Data Scientist", "GenAI Engineer", "Data Analyst", "Power BI Developer"]
-        self.ai_stack    = ["RAG", "LLMs", "Llama 3", "Groq API", "Random Forest", "Scikit-learn"]
-        self.analytics   = ["Power BI", "Tableau", "SQL", "EDA", "Statistical Analysis"]
-        self.dev_tools   = ["Streamlit", "FastAPI", "MongoDB", "React", "Flask"]
-        self.open_source = "GirlScript Summer of Code 2026 🌟"
-        self.currently   = "Building GenAI apps & data-driven solutions 🚀"
-        self.fun_fact    = "I turn messy data into clear business decisions 📊"
-
-    def say_hi(self):
-        print("Let's turn data into decisions together! 📊✨")
-
-me = MuskanYadav()
-me.say_hi()
-```
 
 ---
 
