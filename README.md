@@ -11,11 +11,14 @@
   <a href="https://linkedin.com/in/muskan-yadav-70938a38b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:muskany213@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+  <a href="https://www.hackerrank.com/profile/muskany213">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/muskany213/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://muskan-yadav18-medagent-app-o91m3m.streamlit.app">
     <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -27,17 +30,37 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Scientist-8E2DE2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI_Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analyst-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI_Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+<div align="center">
 
-> 🎓 Integrated M.Tech in **Computational & Data Science** @ VIT Bhopal (2022–2027)
-> 🌟 GirlScript Summer of Code 2026 **Open Source Contributor**
-> 🔴 Built & deployed **live GenAI app** (MedAgent) on Streamlit Cloud
-> 🏆 **5-Star Python** on HackerRank — 100+ problems solved
+![Data Scientist](https://img.shields.io/badge/-%F0%9F%A4%96%20Data%20Scientist-8E2DE2?style=for-the-badge)
+![GenAI Engineer](https://img.shields.io/badge/-%F0%9F%A7%A0%20GenAI%20Engineer-FF6B6B?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/-%F0%9F%93%8A%20Data%20Analyst-0A66C2?style=for-the-badge)
+![Power BI Developer](https://img.shields.io/badge/-%F0%9F%93%88%20Power%20BI%20Developer-F2C811?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td>🎓</td>
+    <td>Integrated M.Tech in <b>Computational & Data Science</b> @ VIT Bhopal (2022–2027)</td>
+  </tr>
+  <tr>
+    <td>🌟</td>
+    <td>GirlScript Summer of Code 2026 — <b>Open Source Contributor</b></td>
+  </tr>
+  <tr>
+    <td>🔴</td>
+    <td>Built & deployed <b>live GenAI app</b> (MedAgent) on Streamlit Cloud</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><b>5-Star Python</b> on HackerRank — 100+ problems solved</td>
+  </tr>
+</table>
+
+<br/>
 
 ```python
 class MuskanYadav:
@@ -271,20 +294,14 @@ me.say_hi()
   <a href="https://linkedin.com/in/muskan-yadav-70938a38b">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:muskany213@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+  <a href="https://www.hackerrank.com/profile/muskany213">
     <img src="https://img.shields.io/badge/HackerRank-5⭐_Python-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
-</p>
-
-<p align="center">
-  <b>⭐ Star my repos if you find them useful — it keeps me motivated to build more! 🚀</b>
-</p>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+  <a href="https://leetcode.com/u/muskany213/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
