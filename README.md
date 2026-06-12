@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:muskany213@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/muskany213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/muskany213">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -67,39 +67,56 @@
 
 ## 💼 Experience
 
-### 🌟 Contributor — GirlScript Summer of Code (GSSOC 2026)
-`May 2026 – Present · 2 mos · Part-time`
-
-- 🤝 Contributing to **open-source projects** through GirlScript Summer of Code 2026
-- 💻 Collaborating with developers, solving real-world issues & improving project documentation
-- 🔧 Actively improving **code quality** and contributing to community-driven projects
-
----
-
-### 🏢 ServiceNow Virtual Intern — ServiceNow
-`Apr 2026 – May 2026 · 2 mos · Remote`
-
-- ✅ Completed **8-week virtual internship** focused on ServiceNow Administration & Workflow Automation
-- 🤖 Gained hands-on experience with **Agentic AI concepts** and enterprise process automation
-- 🧪 Worked with **Automated Test Framework (ATF)** for quality assurance
-
----
-
-### 📊 Data Analyst — Kanchan Welfare & Educational Society
-`Nov 2025 – Dec 2025 · 2 mos · On-site`
-
-- 🔍 Analysed **3+ real-world datasets** using Python and SQL
-- 📈 Identified purchasing-pattern shifts that informed segment-level business decisions
-- 📊 Built dashboards & visualizations using Matplotlib & Tableau for stakeholder communication
-
----
-
-### 🏢 Data Science Intern — CodSoft (Virtual)
-`Jan 2024 – Feb 2024 · 2 mos · Remote`
-
-- 💻 Completed **4-week virtual Data Science internship** with hands-on real-world projects
-- 🤖 Built & deployed ML models with focus on **feature engineering & predictive modeling**
-- 🧠 Gained practical experience in **EDA, data preprocessing & model evaluation**
+<table>
+  <tr>
+    <td>
+      <h3>🌟 Contributor — GirlScript Summer of Code (GSSOC 2026)</h3>
+      <img src="https://img.shields.io/badge/May%202026–Present-C9B8F5?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Part--time-E0E0E0?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Open%20Source-B2DFBC?style=flat-square&logoColor=333"/>
+      <br/><br/>
+      ▸ Contributing to open-source projects through <b>GirlScript Summer of Code 2026</b><br/>
+      ▸ Collaborating with developers, solving real-world issues & improving project documentation<br/>
+      ▸ Actively improving <b>code quality</b> and contributing to community-driven projects
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏢 ServiceNow Virtual Intern — ServiceNow</h3>
+      <img src="https://img.shields.io/badge/Apr%202026–May%202026-B3D4F5?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/2%20mos-E0E0E0?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Remote-FFCDD2?style=flat-square&logoColor=333"/>
+      <br/><br/>
+      ▸ Completed <b>8-week virtual internship</b> on ServiceNow Administration & Workflow Automation<br/>
+      ▸ Gained hands-on experience with <b>Agentic AI concepts</b> and enterprise process automation<br/>
+      ▸ Worked with <b>Automated Test Framework (ATF)</b> for quality assurance
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Data Analyst — Kanchan Welfare & Educational Society</h3>
+      <img src="https://img.shields.io/badge/Nov%202025–Dec%202025-FFF9C4?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/2%20mos-E0E0E0?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/On--site-B2DFBC?style=flat-square&logoColor=333"/>
+      <br/><br/>
+      ▸ Analysed <b>3+ real-world datasets</b> using Python and SQL<br/>
+      ▸ Identified purchasing-pattern shifts that informed <b>segment-level business decisions</b><br/>
+      ▸ Built dashboards & visualizations using <b>Matplotlib & Tableau</b> for stakeholders
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏢 Data Science Intern — CodSoft (Virtual)</h3>
+      <img src="https://img.shields.io/badge/Jan%202024–Feb%202024-FFCDD2?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/2%20mos-E0E0E0?style=flat-square&logoColor=333"/>
+      <img src="https://img.shields.io/badge/Remote-B3D4F5?style=flat-square&logoColor=333"/>
+      <br/><br/>
+      ▸ Completed <b>4-week Data Science internship</b> with hands-on real-world projects<br/>
+      ▸ Built & deployed ML models with focus on <b>feature engineering & predictive modeling</b><br/>
+      ▸ Gained practical experience in <b>EDA, data preprocessing & model evaluation</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
