@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
