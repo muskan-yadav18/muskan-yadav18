@@ -29,10 +29,10 @@
 
 <div align="center">
 
-![Data Scientist](https://img.shields.io/badge/-%F0%9F%A4%96%20Data%20Scientist-8E2DE2?style=for-the-badge)
-![GenAI Engineer](https://img.shields.io/badge/-%F0%9F%A7%A0%20GenAI%20Engineer-FF6B6B?style=for-the-badge)
-![Data Analyst](https://img.shields.io/badge/-%F0%9F%93%8A%20Data%20Analyst-0A66C2?style=for-the-badge)
-![Power BI Developer](https://img.shields.io/badge/-%F0%9F%93%88%20Power%20BI%20Developer-F2C811?style=for-the-badge&labelColor=000000)
+<img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GenAI%20Engineer-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI%20Developer-F2C811?style=for-the-badge&logoColor=black" />
 
 </div>
 
