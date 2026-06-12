@@ -34,16 +34,13 @@
 
 ## 🧠 About Me
 
-<div align="center">
+<p align="center">
+  <i>🚀 Building intelligent systems that turn data into real-world impact</i>
+</p>
 
-<img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/GenAI%20Engineer-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI%20Developer-F2C811?style=for-the-badge&logoColor=black" />
-
-</div>
-
-<br/>
+<p align="center">
+  Final-year <b>M.Tech CSE</b> student specializing in <b>Computational & Data Science @ VIT Bhopal</b> — I build AI-powered apps, REST APIs, and interactive dashboards that solve real problems. From training ML models to deploying live GenAI systems, I bridge the gap between raw data and actionable intelligence.
+</p>
 
 <table align="center">
   <tr>
