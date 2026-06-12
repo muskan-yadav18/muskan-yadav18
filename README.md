@@ -27,19 +27,29 @@
 
 ## 🧠 About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Scientist-8E2DE2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI_Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analyst-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI_Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+> 🎓 Integrated M.Tech in **Computational & Data Science** @ VIT Bhopal (2022–2027)
+> 🌟 GirlScript Summer of Code 2026 **Open Source Contributor**
+> 🔴 Built & deployed **live GenAI app** (MedAgent) on Streamlit Cloud
+> 🏆 **5-Star Python** on HackerRank — 100+ problems solved
+
 ```python
 class MuskanYadav:
     def __init__(self):
         self.name        = "Muskan Yadav"
-        self.degree      = "Integrated M.Tech — Computational & Data Science"
-        self.university  = "VIT Bhopal University (2022–2027)"
-        self.roles       = ["Data Scientist", "Data Analyst", "GenAI Engineer", "ML Engineer"]
-        self.languages   = ["Python", "SQL", "JavaScript"]
+        self.roles       = ["Data Scientist", "GenAI Engineer", "Data Analyst", "Power BI Developer"]
         self.ai_stack    = ["RAG", "LLMs", "Llama 3", "Groq API", "Random Forest", "Scikit-learn"]
-        self.tools       = ["Power BI", "Tableau", "Streamlit", "Jupyter", "MongoDB", "FastAPI"]
-        self.open_source = "GirlScript Summer of Code 2026 Contributor 🌟"
-        self.currently   = "Building GenAI apps & contributing to open source 🚀"
-        self.fun_fact    = "5-Star Python on HackerRank — 100+ problems solved 🏆"
+        self.analytics   = ["Power BI", "Tableau", "SQL", "EDA", "Statistical Analysis"]
+        self.dev_tools   = ["Streamlit", "FastAPI", "MongoDB", "React", "Flask"]
+        self.open_source = "GirlScript Summer of Code 2026 🌟"
+        self.currently   = "Building GenAI apps & data-driven solutions 🚀"
+        self.fun_fact    = "I turn messy data into clear business decisions 📊"
 
     def say_hi(self):
         print("Let's turn data into decisions together! 📊✨")
@@ -261,11 +271,20 @@ me.say_hi()
   <a href="https://linkedin.com/in/muskan-yadav-70938a38b">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="muskany213@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/muskany213">
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK">
     <img src="https://img.shields.io/badge/HackerRank-5⭐_Python-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>⭐ Star my repos if you find them useful — it keeps me motivated to build more! 🚀</b>
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
   </a>
 </p>
 
