@@ -1,12 +1,9 @@
-<!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/muskan-yadav-70938a38b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -80,7 +77,6 @@ class MuskanYadav:
 me = MuskanYadav()
 me.say_hi()
 ```
-```
 
 ---
 
@@ -92,7 +88,6 @@ me.say_hi()
 - 🤝 Contributing to **open-source projects** through GirlScript Summer of Code 2026
 - 💻 Collaborating with developers, solving real-world issues & improving project documentation
 - 🔧 Actively improving **code quality** and contributing to community-driven projects
-- 🛠️ Skills: GitHub, Git, Open Source Collaboration
 
 ---
 
@@ -102,7 +97,6 @@ me.say_hi()
 - ✅ Completed **8-week virtual internship** focused on ServiceNow Administration & Workflow Automation
 - 🤖 Gained hands-on experience with **Agentic AI concepts** and enterprise process automation
 - 🧪 Worked with **Automated Test Framework (ATF)** for quality assurance
-- 🛠️ Skills: ServiceNow Administration, Agentic AI Concepts & Applications
 
 ---
 
@@ -112,7 +106,6 @@ me.say_hi()
 - 🔍 Analysed **3+ real-world datasets** using Python and SQL
 - 📈 Identified purchasing-pattern shifts that informed segment-level business decisions
 - 📊 Built dashboards & visualizations using Matplotlib & Tableau for stakeholder communication
-- 🛠️ Skills: Python, Statistical Data Analysis, SQL, EDA
 
 ---
 
@@ -122,7 +115,6 @@ me.say_hi()
 - 💻 Completed **4-week virtual Data Science internship** with hands-on real-world projects
 - 🤖 Built & deployed ML models with focus on **feature engineering & predictive modeling**
 - 🧠 Gained practical experience in **EDA, data preprocessing & model evaluation**
-- 🛠️ Skills: Data Analysis, Exploratory Data Analysis, Machine Learning
 
 ---
 
@@ -277,14 +269,14 @@ me.say_hi()
 
 ---
 
-## 🌟 Achievements & Extracurriculars
+## 🌟 Achievements
 
 | 🎖️ | Achievement |
 |---|---|
 | 🌟 | **GirlScript Summer of Code 2026** — Open Source Contributor |
 | 🏆 | **5-Star Python** on HackerRank — 100+ problems solved |
 | 🚀 | **Blostem Fintech Hackathon** — Vernacular FD Advisor Track |
-| 🤝 | **NSS Club** — Community service, events & social awareness drives |
+| 🤝 | **NSS Club** — Community service & social awareness drives |
 | 🔴 | **Live Project** — MedAgent AI deployed on Streamlit Cloud |
 
 ---
@@ -310,5 +302,4 @@ me.say_hi()
   <b>⭐ Star my repos if you find them useful — it keeps me motivated to build more! 🚀</b>
 </p>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
