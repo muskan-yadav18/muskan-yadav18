@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
 <p align="center">
   <img src="profile.png" width="220" height="220" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
 </p>
