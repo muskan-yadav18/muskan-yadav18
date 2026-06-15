@@ -161,6 +161,9 @@ I thrive on continuous learning and embrace challenges that help me grow profess
       <a href="https://github.com/muskan-yadav18/CarpoolPal">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
+      <a href="https://carpoolpal-muskan.streamlit.app/">
+        <img src="https://img.shields.io/badge/🔴_Live_Demo-Streamlit-FF4B4B?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
   <tr>
