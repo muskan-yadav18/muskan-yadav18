@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" />
 
 <p align="center">
+  <img src="profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GenAI%20Engineer-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logoColor=white" />
@@ -161,16 +165,6 @@
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💰 Smart FD Advisor — Fintech Chatbot</h3>
-      <p>Multilingual AI chatbot (Hindi + English + Marathi) explaining FD jargon for Tier-2/3 city users. Built for Blostem Fintech Hackathon.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Multilingual_NLP-0A66C2?style=flat-square"/>
-      </p>
-      <img src="https://img.shields.io/badge/Hackathon_Project-8E2DE2?style=for-the-badge"/>
-    </td>
   </tr>
 </table>
 
@@ -303,5 +297,7 @@
 <p align="center">
   <b>⭐ Star my repos if you find them useful — it keeps me motivated to build more! 🚀</b>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
