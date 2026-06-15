@@ -1,36 +1,36 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
 </p>
 
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-8E2DE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI%20Engineer-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Developer-F2C811?style=for-the-badge&logoColor=black" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muskan-yadav-70938a38b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muskany213@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/muskan-yadav18"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/muskany213/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/muskany213"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GENAI%20ENGINEER-8E2DE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DATA%20ANALYST-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POWER%20BI%20DEVELOPER-F2C811?style=for-the-badge&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HACKERRANK%205★%20PYTHON-2EC866?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GSSOC%202026-8E2DE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTOR-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20BUILDER-FF6B6B?style=for-the-badge"/>
-</p>
-
-<p align="center">📍 Bhopal, Madhya Pradesh, India</p>
-
-<p align="center">
+  <a href="https://linkedin.com/in/muskan-yadav-70938a38b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muskany213@gmail.com">
+    <img src="https://img.shields.io/badge/muskany213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/muskany213">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/muskany213/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://muskan-yadav18-medagent-app-o91m3m.streamlit.app">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=muskan-yadav18&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
 </p>
 
@@ -38,40 +38,34 @@
 
 ## 🧠 About Me
 
-I'm an aspiring **Data Scientist and GenAI Engineer**, currently pursuing an Integrated M.Tech in Computer Science & Engineering (Computational and Data Science) at VIT Bhopal University. I have a strong passion for data analytics, machine learning, and building AI-powered applications that turn raw data into actionable insights.
+<p align="center">
+  <i>🚀 Building intelligent systems that turn data into real-world impact</i>
+</p>
 
-My technical journey is complemented by strong problem-solving, full-stack development, and collaboration skills — allowing me to work effectively across data pipelines, ML models, REST APIs, and interactive dashboards.
+<p align="center">
+  Final-year <b>M.Tech CSE</b> student specializing in <b>Computational & Data Science @ VIT Bhopal</b> — I build AI-powered apps, REST APIs, and interactive dashboards that solve real problems. From training ML models to deploying live GenAI systems, I bridge the gap between raw data and actionable intelligence.
+</p>
 
-I thrive on continuous learning and embrace challenges that help me grow professionally. Whether it's solving DSA problems on HackerRank, building RAG-powered GenAI applications, performing data analysis with Python & SQL, or contributing to real-world open-source projects — I approach every opportunity with curiosity and consistency.
-
----
-
-## 💪 Core Strengths
-
-<table>
+<table align="center">
   <tr>
-    <td width="25%" align="center">
-      <h3>📊</h3>
-      <b>Data Storyteller</b><br/>
-      <sub>Transforming raw datasets into meaningful insights through analysis, visualization & business reporting</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>🧩</h3>
-      <b>Problem Solver</b><br/>
-      <sub>5-Star Python on HackerRank — solving complex DSA & coding challenges with structured approaches</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>🤖</h3>
-      <b>GenAI Builder</b><br/>
-      <sub>Building RAG-powered AI apps with LLMs (Llama 3, Groq API) deployed on live platforms</sub>
-    </td>
-    <td width="25%" align="center">
-      <h3>🌱</h3>
-      <b>Continuous Learner</b><br/>
-      <sub>Constantly improving skills in Data Analytics, SQL, Power BI, Python & Machine Learning</sub>
-    </td>
+    <td>🎓</td>
+    <td>Integrated M.Tech in <b>Computational & Data Science</b> @ VIT Bhopal (2022–2027)</td>
+  </tr>
+  <tr>
+    <td>🌟</td>
+    <td>GirlScript Summer of Code 2026 — <b>Open Source Contributor</b></td>
+  </tr>
+  <tr>
+    <td>🔴</td>
+    <td>Built & deployed <b>live GenAI app</b> (MedAgent) on Streamlit Cloud</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><b>5-Star Python</b> on HackerRank — 100+ problems solved</td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -277,7 +271,6 @@ I thrive on continuous learning and embrace challenges that help me grow profess
 |---|---|
 | 🌟 | **GirlScript Summer of Code 2026** — Open Source Contributor |
 | 🏆 | **5-Star Python** on HackerRank — 100+ problems solved |
-| 🚀 | **Blostem Fintech Hackathon** — Vernacular FD Advisor Track |
 | 🤝 | **NSS Club** — Community service & social awareness drives |
 | 🔴 | **Live Project** — MedAgent AI deployed on Streamlit Cloud |
 
@@ -290,7 +283,7 @@ I thrive on continuous learning and embrace challenges that help me grow profess
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:muskany213@gmail.com">
-    <img src="https://img.shields.io/badge/muskany213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.hackerrank.com/profile/muskany213">
     <img src="https://img.shields.io/badge/HackerRank-5⭐_Python-2EC866?style=for-the-badge&logo=hackerrank"/>
