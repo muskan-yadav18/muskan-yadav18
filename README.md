@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
 </p>
 
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=900&lines=Data+Scientist+%26+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+%26+LLM-powered+apps+%F0%9F%A7%A0;Turning+raw+data+into+business+insights+%F0%9F%93%8A;GirlScript+Summer+of+Code+2026+Contributor+%F0%9F%8C%9F;Open+to+Data+%2F+AI+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
