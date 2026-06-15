@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
+  <img src="profile.png" width="220" height="220" style="border-radius: 50%; object-fit: cover;" alt="Muskan Yadav"/>
 </p>
 
 <p align="center">
