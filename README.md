@@ -279,7 +279,6 @@ I thrive on continuous learning and embrace challenges that help me grow profess
 |---|---|
 | 🌟 | **GirlScript Summer of Code 2026** — Open Source Contributor |
 | 🏆 | **5-Star Python** on HackerRank — 100+ problems solved |
-| 🚀 | **Blostem Fintech Hackathon** — Vernacular FD Advisor Track |
 | 🤝 | **NSS Club** — Community service & social awareness drives |
 | 🔴 | **Live Project** — MedAgent AI deployed on Streamlit Cloud |
 
