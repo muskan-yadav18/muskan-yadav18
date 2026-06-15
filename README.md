@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20BUILDER-FF6B6B?style=for-the-badge"/>
 </p>
 
-<p align="center">📍 Bhopal, Madhya Pradesh, India</p>
+<p align="center">📍 Ashta, Madhya Pradesh, India</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muskan-yadav18&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
