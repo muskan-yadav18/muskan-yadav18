@@ -13,17 +13,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GENAI%20ENGINEER-8E2DE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DATA%20ANALYST-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POWER%20BI%20DEVELOPER-F2C811?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-B3D4F5?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/GENAI%20ENGINEER-C9B8F5?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYST-FFCDD2?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/POWER%20BI%20DEVELOPER-FFF9C4?style=for-the-badge&logoColor=333"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HACKERRANK%205★%20PYTHON-2EC866?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GSSOC%202026-8E2DE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTOR-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20BUILDER-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HACKERRANK%205★%20PYTHON-B2DFBC?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/GSSOC%202026-C9B8F5?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTOR-B2DFBC?style=for-the-badge&logoColor=333"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM%20BUILDER-FFCDD2?style=for-the-badge&logoColor=333"/>
 </p>
 
 <p align="center">📍 Ashta, Madhya Pradesh, India</p>
