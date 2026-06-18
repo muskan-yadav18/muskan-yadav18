@@ -36,11 +36,11 @@
 
 ## 🧠 About Me
 
-I'm an aspiring **Data Scientist and GenAI Engineer**, currently pursuing an Integrated M.Tech in Computer Science & Engineering (Computational and Data Science) at VIT Bhopal University. I have a strong passion for data analytics, machine learning, and building AI-powered applications that turn raw data into actionable insights.
+I'm a **Software Engineer and Data Analyst** pursuing an Integrated M.Tech in Computer Science & Engineering at **Vellore Institute of Technology**. My work spans the full spectrum — from designing production-grade REST APIs and RAG-based AI systems to building analytical pipelines and business intelligence dashboards.
 
-My technical journey is complemented by strong problem-solving, full-stack development, and collaboration skills — allowing me to work effectively across data pipelines, ML models, REST APIs, and interactive dashboards.
+I approach every system with a bias toward **scalability, clean architecture, and measurable impact**, writing code that is maintainable, well-structured, and deployable at scale. My background in both software engineering and data analytics gives me an end-to-end perspective — I can architect a backend, design a database schema, build an ETL pipeline, and surface insights through dashboards, all within the same project.
 
-I thrive on continuous learning and embrace challenges that help me grow professionally. Whether it's solving DSA problems on HackerRank, building RAG-powered GenAI applications, performing data analysis with Python & SQL, or contributing to real-world open-source projects — I approach every opportunity with curiosity and consistency.
+> 🎯 **Core mindset:** Production-grade quality · Clean code principles · Data-driven decision making
 
 ---
 
