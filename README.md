@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muskan%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=900&lines=Hey+I+am+Muskan+Yadav+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Open+to+Data+Analyst+%7C+AI+%7C+GenAI+Roles+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=Hey+I+am+Muskan+Yadav+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Open+to+Data+Analyst+%7C+AI+%7C+GenAI+Roles+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -227,6 +227,12 @@ I approach every system with a bias toward **scalability, clean architecture, an
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muskan-yadav18&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=FFFFFF&hide_border=true" />
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muskan-yadav18/muskan-yadav18/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
