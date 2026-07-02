@@ -218,7 +218,7 @@ I approach every system with a bias toward **scalability, clean architecture, an
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muskan-yadav18&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=FF6B6B&currStreakLabel=8E2DE2" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muskan-yadav18&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B6B&currStreakLabel=FF6B9D&timezone=Asia%2FKolkata" />
 </p>
 
 <p align="center">
