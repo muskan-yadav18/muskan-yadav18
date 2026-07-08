@@ -226,6 +226,16 @@ I approach every system with a bias toward **scalability, clean architecture, an
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=muskan-yadav18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan-yadav18&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan-yadav18&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muskan-yadav18&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muskan-yadav18&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muskan-yadav18&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=FFFFFF&hide_border=true" />
 
 ### 🐍 Contribution Snake
