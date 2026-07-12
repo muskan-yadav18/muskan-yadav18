@@ -203,7 +203,7 @@ I approach every system with a bias toward **scalability, clean architecture, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&show=prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=muskan-yadav18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 <p align="center">
