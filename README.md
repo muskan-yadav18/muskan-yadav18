@@ -193,13 +193,17 @@ I approach every system with a bias toward **scalability, clean architecture, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=muskan-yadav18&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B6B&currStreakLabel=FF6B9D&timezone=Asia%2FKolkata&mode=weekly" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-yadav18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=muskan-yadav18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&show=prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
 </p>
 
 <p align="center">
