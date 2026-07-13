@@ -193,6 +193,11 @@ I approach every system with a bias toward **scalability, clean architecture, an
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Total%20PRs%20Merged-8-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSOC%202026-Open%20Source%20Contributor-FF6B9D?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muskan-yadav18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=muskan-yadav18&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B6B&currStreakLabel=FF6B9D&timezone=Asia%2FKolkata&mode=weekly" />
 </p>
